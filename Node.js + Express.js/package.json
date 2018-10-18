@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express-azureappservice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "express": "~4.13.1"
+  }
+}
