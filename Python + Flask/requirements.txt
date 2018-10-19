@@ -1,0 +1,4 @@
+Flask<1
+gunicorn
+flask_cors
+flask_restful
